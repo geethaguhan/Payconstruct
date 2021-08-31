@@ -47,6 +47,7 @@ http://localhost:2000/transaction/1
 http://localhost:2000/transfer
 </br>
 Use below json input on body and use post method
+<br/>
 <pre>
 {
     "id": 5,
