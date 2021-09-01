@@ -38,26 +38,5 @@ Use post method and pass following json in body
 }
 </pre>
 <br/>
-#To get transaction list by coustmer id use below link  and use get method.
-<br/>
-<a hrref="http://localhost:2000/transaction/1">http://localhost:2000/transaction/1</a>
-</br>
-</br>
-#To transper amount to another coustomer use below link
-<br/>
-
-</br>
-Use below json input on body and use post method
-<br/>
-<a hrref="http://localhost:2000/transaction/1">http://localhost:2000/transfer</a>
-<pre>
-{
-    "id": 5,
-    "fromcid": 1,
-    "tocid": 4,
-    "amount": 12000,
-    "date": "5/aug/2018"
-}
-
-</pre>
+http://localhost:2000/transaction/1
 
