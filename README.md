@@ -41,18 +41,14 @@ http://localhost:2000/transaction/1
 }
 </code>
 </pre>
-    <div>
-<br/>
-
+ <div>
 #To get transaction list by coustmer id use below link  and use get method.
 <br/>
 <a href="http://localhost:2000/transaction/1" rel="nofollow">http://localhost:2000/transaction/1</a>        
 </br>
-</br>
+
 #To transper amount to another coustomer use below link
 <br/>
-
-</br>
 Use below json input on body and use post method
 <br/>
 <a href="http://localhost:2000/transfer" rel="nofollow">http://localhost:2000/transfer</a>  
@@ -64,5 +60,4 @@ Use below json input on body and use post method
     "amount": 12000,
     "date": "5/aug/2018"
 }
-
 </pre>
