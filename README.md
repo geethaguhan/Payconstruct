@@ -24,7 +24,7 @@ http://localhost:2000/search/1
 <br/>Use Get method to display result.
 <br/>
 <br/>
-#To add new customer use below link
+#To add new customer use below api
 <br/>
 http://localhost:2000/create
 <br/>
@@ -42,12 +42,12 @@ http://localhost:2000/transaction/1
 </code>
 </pre>
  <div>
-#To get transaction list by coustmer id use below link  and use get method.
+#To get transaction list by coustmer id use below api and use get method.
 <br/>
 <a href="http://localhost:2000/transaction/1" rel="nofollow">http://localhost:2000/transaction/1</a>        
 </br>
 
-#To transper amount to another coustomer use below link
+#To transper amount to another coustomer use below api and use post method
 <br/>
 Use below json input on body and use post method
 <br/>
