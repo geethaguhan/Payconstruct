@@ -30,14 +30,14 @@ http://localhost:2000/create
 <br/>
 Use post method and pass following json in body
 http://localhost:2000/transaction/1
-<pre>
+<code>
 {
     "id": 5,
     "name": "Peter Jhon",
     "deposit": 10000,
     "balance": 10000
 }
-</pre>
+</code>
 <br/>
 http://localhost:2000/transaction/1
 
