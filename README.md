@@ -53,6 +53,7 @@ Use below json input on body and use post method
 <br/>
 <a href="http://localhost:2000/transfer" rel="nofollow">http://localhost:2000/transfer</a>  
 <pre>
+<code>
 {
     "id": 5,
     "fromcid": 1,
@@ -60,4 +61,5 @@ Use below json input on body and use post method
     "amount": 12000,
     "date": "5/aug/2018"
 }
+</code>
 </pre>
