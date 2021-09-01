@@ -28,7 +28,7 @@ http://localhost:2000/search/1
 <br/>
 http://localhost:2000/create
 <br/>
-Use post method and pass following json in body
+Use post method and pass given json as input
 <div>
 <pre>
 <code>
@@ -48,7 +48,7 @@ Use post method and pass following json in body
 <br/>
 #To transper amount to another coustomer use below api and use post method
 <br/>
-Use below json input on body and use post method
+Use post method and pass given json as input
 <br/>
 
 <a href="http://localhost:2000/transfer" rel="nofollow">http://localhost:2000/transfer</a>  
