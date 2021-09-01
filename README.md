@@ -30,6 +30,7 @@ http://localhost:2000/create
 <br/>
 Use post method and pass following json in body
 http://localhost:2000/transaction/1
+<div>
 <pre>
 <code>
 {
@@ -40,6 +41,7 @@ http://localhost:2000/transaction/1
 }
 </code>
 </pre>
+    <div>
 <br/>
-http://localhost:2000/transaction/1
 
+<a href="http://localhost:2000/search/1" rel="nofollow">http://localhost:2000/transaction/1</a>
