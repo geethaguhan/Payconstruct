@@ -6,7 +6,7 @@ Assessment
 <br/>
 #Unrar Payconstruct folder and upload into node installed folder
 <br/>
-#Run following command on command line<b>npm run start</b>
+#Run following command on command line <b>npm run start</b>
 <br/>
 #Use Postman to test api
 <br>
