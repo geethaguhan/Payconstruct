@@ -30,6 +30,7 @@ http://localhost:2000/create
 <br/>
 Use post method and pass following json in body
 http://localhost:2000/transaction/1
+<pre>
 <code>
 {
     "id": 5,
@@ -38,6 +39,7 @@ http://localhost:2000/transaction/1
     "balance": 10000
 }
 </code>
+</pre>
 <br/>
 http://localhost:2000/transaction/1
 
