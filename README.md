@@ -46,11 +46,12 @@ http://localhost:2000/transaction/1
 <br/>
 <a href="http://localhost:2000/transaction/1" rel="nofollow">http://localhost:2000/transaction/1</a>        
 </br>
-
+<br/>
 #To transper amount to another coustomer use below api and use post method
 <br/>
 Use below json input on body and use post method
 <br/>
+
 <a href="http://localhost:2000/transfer" rel="nofollow">http://localhost:2000/transfer</a>  
 <pre>
 <code>
