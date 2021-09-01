@@ -29,6 +29,7 @@ http://localhost:2000/search/1
 http://localhost:2000/create
 <br/>
 Use post method and pass following json in body
+http://localhost:2000/transaction/1
 <pre>
 {
     "id": 5,
